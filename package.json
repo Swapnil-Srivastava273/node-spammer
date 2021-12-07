@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.7.2",
+    "talk-like-a": "^2.0.0"
+  }
+}
