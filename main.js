@@ -23,7 +23,7 @@ SP AM_B OT
 PS: Any gullible reply will result in massively irreversible response with tremendous increase in entropy. Be fun.`);
 function funnyTalk(seed){
    
-        return a[seed%b.length]
+        return a[seed%a.length]
 }
 
 function randLinGrad(){
