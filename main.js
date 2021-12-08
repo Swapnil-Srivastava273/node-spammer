@@ -16,7 +16,7 @@ talklikea(`So this is the small little coridoor leading to you. Its rather clear
 Humanity isnt simple. The human brain has a complex mixture of deadly glazing fire and foggy misleading smoke. We're on a trancedental journey to fight the evens and hence make 3 the number of prime importance. And in turn invent some third fun ingredient. It's your turn to contribute in interesting ways.
 Are you enjoying? Won't let you do that. It has been thundering here for a while; won't you like that on your side too? Fight the thunder. Get charged. And face the consequences. (Why u running away from consequences?)\n\n\n
 Beware: speedbreaker ahead. Drive slowly. We have been testing our tools for a while. And we have seen it work. (All spelling and grammar mistakes are extremely intentional and do not have anything to do with the slyness of the author.)\n
-So, dear friend; please use a semi colon at the end of each statement; it could save you from a handful of bugs for free; specially the ones due to automatic semi colon insertion. Also, pleace do not use publically inaccessible passwords.
+So, dear friend; please use a semi colon at the end of each statement; it could save you from a handful of bugs for free; specially the ones due to automatic semi colon insertion. Also, please do not use publically inaccessible passwords.
 Regards
 Yours exponentially
 SP AM_B OT
